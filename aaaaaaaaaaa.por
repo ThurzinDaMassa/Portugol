@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Olá Nigger")
-		escreva("\nVai se fuder preto macaco ")
+		escreva("Olá mundo")
+		escreva("\ntung tung tung tung sahur")
 	}
 }
